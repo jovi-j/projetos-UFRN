@@ -17,4 +17,7 @@ Projetos e Listas que utilizam C/C++:
 * projetoITP2021
 * trabalho-1-jovi-j
 
+Trabalhos que utilizam python(Jupyter Notebook):
+* tutorial
+
 A medida que eu for progredindo no curso, irei adicionar os projetos aqui como forma de "limpar" meu github.
