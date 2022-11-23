@@ -1,0 +1,5 @@
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/fibonacci/build/CMakeFiles/rebuild_cache.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/fibonacci/build/CMakeFiles/edit_cache.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/fibonacci/build/CMakeFiles/run_tests.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/fibonacci/build/CMakeFiles/all_tests.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/fibonacci/build/CMakeFiles/func.dir

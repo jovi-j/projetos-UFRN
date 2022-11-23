@@ -1,0 +1,5 @@
+package br.com.imd.dominio;
+
+public enum Codigo {
+    OK, TRANSF_ERR_MESMA_CONTA, TRANSF_ERR_DEST_OU_REM_INVAL, TRANSF_ERR_VALOR_INVAL, TRANSF_ERR_SEM_SALDO
+}

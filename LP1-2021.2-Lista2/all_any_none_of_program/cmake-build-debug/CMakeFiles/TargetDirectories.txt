@@ -1,0 +1,4 @@
+/home/jovi/CLionProjects/LP1-2021.2-Lista2/all_any_none_of_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jovi/CLionProjects/LP1-2021.2-Lista2/all_any_none_of_program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jovi/CLionProjects/LP1-2021.2-Lista2/all_any_none_of_program/cmake-build-debug/CMakeFiles/verify.dir
+/home/jovi/CLionProjects/LP1-2021.2-Lista2/all_any_none_of_program/cmake-build-debug/CMakeFiles/program.dir

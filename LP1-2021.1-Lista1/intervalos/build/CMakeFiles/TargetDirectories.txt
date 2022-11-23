@@ -1,0 +1,4 @@
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/rebuild_cache.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/edit_cache.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/verify.dir
+/home/jovi/CLionProjects/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/program.dir

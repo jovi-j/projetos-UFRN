@@ -1,0 +1,16 @@
+4337
+Debra 5 11 45 8 5 37
+Heather 8 8 39 41 20 22 46 12 3
+Janet 7 38 35 1 17 13 36 19
+Laura 6 16 10 3 44 47 38
+Christina 2 12 32
+Ruth 9 24 14 33 18 16 17 15 12 40
+Benjamin 1 12
+Sandra 3 40 42 25
+Christopher 8 26 15 25 8 21 32 4 16
+Howard 7 35 2 9 8 21 34 45
+Nancy 3 10 16 42
+Isaac 1 10
+Richard 10 19 10 22 20 9 47 49 15 18 42
+Jerry 8 27 47 9 29 26 18 30 8
+Melissa 2 7 38

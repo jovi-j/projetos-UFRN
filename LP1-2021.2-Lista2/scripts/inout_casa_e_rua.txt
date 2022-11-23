@@ -1,0 +1,100 @@
+Osvaldo Montenegro
+59-513-491
+Ssanyu Humbert
+A
+Carina Nekesa
+B
+Maree Christina
+A
+João Evangeline
+B
+Wilhelm Nan
+A
+;
+Ssanyu Humbert - Rua Osvaldo Montenegro, No. 0, Cep: 59-513-491
+Vizinhos
+Maree Christina
+Carina Nekesa - Rua Osvaldo Montenegro, No. 1, Cep: 59-513-491
+Vizinhos
+João Evangeline
+Maree Christina - Rua Osvaldo Montenegro, No. 2, Cep: 59-513-491
+Vizinhos
+Ssanyu Humbert
+Wilhelm Nan
+João Evangeline - Rua Osvaldo Montenegro, No. 3, Cep: 59-513-491
+Vizinhos
+Carina Nekesa
+Wilhelm Nan - Rua Osvaldo Montenegro, No. 4, Cep: 59-513-491
+Vizinhos
+Maree Christina
+;
+José Vidal 91
+58-748-970
+Luella Kabelo
+A
+Marvyn Lottie
+A
+Olaf Charlotte
+A
+Diggory Grenville
+B
+;
+Luella Kabelo - Rua José Vidal 91, No. 0, Cep: 58-748-970
+Vizinhos
+Marvyn Lottie
+Marvyn Lottie - Rua José Vidal 91, No. 2, Cep: 58-748-970
+Vizinhos
+Luella Kabelo
+Olaf Charlotte
+Olaf Charlotte - Rua José Vidal 91, No. 4, Cep: 58-748-970
+Vizinhos
+Marvyn Lottie
+Diggory Grenville - Rua José Vidal 91, No. 1, Cep: 58-748-970
+Vizinhos
+Nenhum
+;
+Misael Mendonça
+85-803-230
+Chikere Johann Baptist
+A
+Neely Bennie
+B
+;
+Chikere Johann Baptist - Rua Misael Mendonça, No 0, Cep: 85-803-230
+Vizinhos
+Nenhum
+Neely Bennie - Rua Misael Mendonça, No 1, Cep: 85-803-230
+Vizinhos
+Nenhum
+;
+Vila Juanci
+60-542-580
+Cheyanne Gerry
+B
+Homer Savannah
+B
+Royce Peg
+B
+Katriona Finn
+B
+Elvina Uduak
+B
+;
+Cheyanne Gerry - Rua Vila Juanci, No 1, Cep: 85-803-230
+Vizinhos
+Homer Savannah
+Homer Savannah - Rua Vila Juanci, No 3, Cep: 85-803-230
+Vizinhos
+Cheyanne Gerry
+Royce Peg
+Royce Peg - Rua Vila Juanci, No 5, Cep: 85-803-230
+Vizinhos
+Homer Savannah
+Katriona Finn
+Katriona Finn - Rua Vila Juanci, No 7, Cep: 85-803-230
+Vizinhos
+Royce Peg
+Elvina Uduak
+Elvina Uduak - Rua Vila Juanci, No 9, Cep: 85-803-230
+Vizinhos
+Katriona Finn

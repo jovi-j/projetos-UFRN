@@ -1,0 +1,9 @@
+3860
+Stephen 6 13 38 41 16 17 24
+Heather 4 9 4 12 42
+Bobby 2 44 4
+Melissa 2 41 36
+Nancy 3 9 24 13
+Kenneth 3 2 40 14
+Julio 4 13 36 21 14
+Ruth 8 31 28 35 4 39 17 19 45
